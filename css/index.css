@@ -1,0 +1,21 @@
+body{
+    background-image: linear-gradient(to right, #89cff0 , #9370db) ;
+}
+
+section {
+    width: 30%;
+}
+button {
+    background-color: #6a0dad;
+}
+h1 {
+    color: #6a0dad;
+}
+
+
+@media (max-width: 640px) {
+    section{
+        width: 65%;
+     
+    }
+}
